@@ -47,7 +47,8 @@ print("The number of words are in the file is ",num)
 
 ### OUTPUT:
 
-![exp9](https://github.com/Ashwinakn/Word-Count/assets/141727149/054701d6-f4a0-48a8-a2f6-3ad285d4f2ee)
+![ex 9 py 1](https://github.com/Ashwinakn/Word-Count/assets/152128332/dbb1257d-0f30-4ac8-8262-53282f7b8279)
+
 
 
 ## RESULT:
